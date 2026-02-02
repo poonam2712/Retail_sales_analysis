@@ -1,4 +1,4 @@
-🛒 Retail Sales Data Analysis
+## **🛒 Retail Sales Data Analysis**
 📌 Project Overview
 
 This project focuses on analyzing retail sales data to understand customer behavior, spending patterns, and sales trends. Using Python and Pandas, the analysis explores how factors like age, gender, time (month/season/year), and product category impact sales performance.
