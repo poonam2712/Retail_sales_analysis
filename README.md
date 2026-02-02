@@ -7,27 +7,27 @@ The goal of this project is to extract meaningful business insights that can hel
 
 ### **📂 Dataset Description**
 
-The dataset contains retail transaction data including:
+* The dataset contains retail transaction data including:
 
-Customer Age
+- Customer Age
 
-Gender
+- Gender
 
-Product Category
+- Product Category
 
-Sales / Spending Amount
+- Sales / Spending Amount
 
-Date & Time of Purchase
+- Date & Time of Purchase
 
 ### **🛠️ Tools & Technologies Used**
 
-Python
+* Python
 
-Pandas – data cleaning & analysis
+* Pandas – data cleaning & analysis
 
-NumPy – numerical operations
+* NumPy – numerical operations
 
-Matplotlib / Seaborn – data visualization
+* Matplotlib / Seaborn – data visualization
 
 ### **📊 Key Analysis Performed**
 **1️⃣ Customer Demographics Analysis**
