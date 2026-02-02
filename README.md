@@ -6,8 +6,8 @@ This project focuses on analyzing retail sales data to understand customer behav
 The goal of this project is to extract meaningful business insights that can help improve marketing strategies and decision-making.
 
 ## 📂 Dataset
-retail_sales_dataset.xls
-
+- 📄 [Retail Sales Dataset](retail_sales_dataset.xls)
+  
 ### **📂 Dataset Description**
 
 * The dataset contains retail transaction data including:
