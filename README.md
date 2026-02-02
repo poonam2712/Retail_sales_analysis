@@ -6,7 +6,7 @@ This project focuses on analyzing retail sales data to understand customer behav
 The goal of this project is to extract meaningful business insights that can help improve marketing strategies and decision-making.
 
 ## 📂 Dataset
-https://github.com/poonam2712/Retail_sales_analysis/blob/main/retail_sales_dataset.xls
+https://drive.google.com/file/d/17K3_Ckv-TFbtENQsxpDKJEZGhj82d95S/view?usp=drive_link
   
 ### **📂 Dataset Description**
 
